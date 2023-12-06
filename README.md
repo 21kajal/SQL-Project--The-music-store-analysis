@@ -11,7 +11,8 @@ MySQL
 
 The Music Store Schema
 
-![MusicDatabaseSchema](https://github.com/21kajal/Kajal-Adiwal/assets/152956294/cd819bf3-48a1-48e4-acb8-e5064b5a3412)
+![MusicDatabaseSchema](https://github.com/21kajal/SQL-Project--The-music-store-analysis/assets/152956294/3059b1c0-3379-4089-bcb8-0987cfa6fd5c.png)
+
 
 
 ## 🔗 Links
